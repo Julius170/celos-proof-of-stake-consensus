@@ -18,7 +18,7 @@ Amongst others, one of the proven efficient and effective means of reaching cons
 
 When a transaction is created on the Celo blockchain before it is added to the blockchain ledger it first needs to be validated by the chain’s miners, thus the need for [consensus](https://docs.celo.org/protocol/consensus).
 
-What is Proof of Stack (PoS)
+# What is Proof of Stack (PoS)
 [Proof of Stack](https://docs.celo.org/learn/celo-protocol#consensus-and-proof-of-stake) is a type of consensus mechanism that adopts the idea of staking coins to earn its node runners the right to validate a transaction before adding it to the blockchain ledger.
 
 When a transaction occurs on a blockchain platform like Celo, there is a need to first authenticate and validate the transaction before adding the transaction to the blockchain permanently. These tasks are usually carried out by the blockchain’s miners and node runners on the Celo blockchain.
@@ -37,30 +37,30 @@ The PoS algorithm also allows its validators and node runners to carry out valid
 # Other types of Consensus Mechanism
 Just like the PoS is used by the Celo blockchain as a means of reaching Consensus in approving all transactions, there are also other consensus mechanisms adopted by other blockchains some of which are;
 
-1. *Proof of Work (PoW)*: [This](https://www.investopedia.com/terms/p/proof-work.asp) type of consensus algorithm requires its miners to consume a massive amount of computational power to solve the complex cryptographic puzzle that defines each transaction. Although this algorithm is effective and adopted by popular blockchain platforms, it is not quite efficient.
+1. **Proof of Work (PoW)**: [This](https://www.investopedia.com/terms/p/proof-work.asp) type of consensus algorithm requires its miners to consume a massive amount of computational power to solve the complex cryptographic puzzle that defines each transaction. Although this algorithm is effective and adopted by popular blockchain platforms, it is not quite efficient.
 
-2. *Delegated Proof of Stake (DPoS)*: [This](https://crypto.com/university/what-is-dpos-delegated-proof-of-stake#:~:text=Delegated%20Proof%20of%20Stake%20(DPoS,delegates%20who%20then%20validate%20blocks.) type of consensus algorithm is similar to the PoS algorithm. But unlike the PoS algorithm, a group of miners or node runners is tasked with achieving a distributed consensus. It serves more like a voting system where miners decide who should be responsible for validating a transaction.
+2. **Delegated Proof of Stake (DPoS)**: [This](https://crypto.com/university/what-is-dpos-delegated-proof-of-stake#:~:text=Delegated%20Proof%20of%20Stake%20(DPoS,delegates%20who%20then%20validate%20blocks.) type of consensus algorithm is similar to the PoS algorithm. But unlike the PoS algorithm, a group of miners or node runners is tasked with achieving a distributed consensus. It serves more like a voting system where miners decide who should be responsible for validating a transaction.
 
-3. *Proof Of Importance (PoI)*: [This](https://www.techopedia.com/definition/33599/proof-of-importance-poi#:~:text=of%20Importance%20(PoI)-,What%20Does%20Proof%20of%20Importance%20(PoI)%20Mean%3F,that%20they%20can%20create%20blocks.) algorithm is also very similar to the Proof of Stake algorithm, In the mechanism rewards are given to effective network users. The algorithm allows a hierarchy of importance based on individuals who have made more contributions to the system and gives them the right to validate transactions on the platform.
+3. **Proof Of Importance (PoI)**: [This](https://www.techopedia.com/definition/33599/proof-of-importance-poi#:~:text=of%20Importance%20(PoI)-,What%20Does%20Proof%20of%20Importance%20(PoI)%20Mean%3F,that%20they%20can%20create%20blocks.) algorithm is also very similar to the Proof of Stake algorithm, In the mechanism rewards are given to effective network users. The algorithm allows a hierarchy of importance based on individuals who have made more contributions to the system and gives them the right to validate transactions on the platform.
 
-4. *Proof of Activity (PoA)*: [This](https://www.investopedia.com/terms/p/proof-activity-cryptocurrency.asp#:~:text=What%20Is%20Proof%2Dof%2DActivity,miners%20arrive%20at%20a%20consensus.) algorithm is a hybrid of the Proof of Work (PoW) and the Proof of Stake (PoS) algorithms, that allow validators to stake coins as collateral, and also validate blocks using computational decryption and other resources.
+4. **Proof of Activity (PoA)**: [This](https://www.investopedia.com/terms/p/proof-activity-cryptocurrency.asp#:~:text=What%20Is%20Proof%2Dof%2DActivity,miners%20arrive%20at%20a%20consensus.) algorithm is a hybrid of the Proof of Work (PoW) and the Proof of Stake (PoS) algorithms, that allow validators to stake coins as collateral, and also validate blocks using computational decryption and other resources.
 
-5. *Proof of Captivity (PoC)*: [This](https://www.investopedia.com/terms/p/proof-capacity-cryptocurrency.asp#:~:text=Proof%20of%20capacity%20(PoC)%20is,mining%20rights%20and%20validate%20transactions.)system of consensus neither requires a miner si solve cryptographic puzzles like the PoW or stake coins like the PoS, but rather to prove that they have a certain amount of hard drive space to contribute to storing plots of cryptographic hashes for the blockchain.
+5. **Proof of Captivity (PoC)**: [This](https://www.investopedia.com/terms/p/proof-capacity-cryptocurrency.asp#:~:text=Proof%20of%20capacity%20(PoC)%20is,mining%20rights%20and%20validate%20transactions.)system of consensus neither requires a miner si solve cryptographic puzzles like the PoW or stake coins like the PoS, but rather to prove that they have a certain amount of hard drive space to contribute to storing plots of cryptographic hashes for the blockchain.
 
 
-6. *Proof of Authority (PoA)*: [This](https://www.naukri.com/learning/articles/proof-of-activity-in-blockchain/) algorithm simply pre-selects and authorizes validator nodes to validate a newly added block.
+6. **Proof of Authority (PoA)**: [This](https://www.naukri.com/learning/articles/proof-of-activity-in-blockchain/) algorithm simply pre-selects and authorizes validator nodes to validate a newly added block.
 
-7. *Proof of Elapsed Time (PoET)*: [This](https://www.naukri.com/learning/articles/proof-of-elapsed-time-in-blockchain/) system of consensus was designed to simply select a leader from a pool of miners and validators and assigns the task of validating the next node.
+7. **Proof of Elapsed Time (PoET)**: [This](https://www.naukri.com/learning/articles/proof-of-elapsed-time-in-blockchain/) system of consensus was designed to simply select a leader from a pool of miners and validators and assigns the task of validating the next node.
 
 These are a few other important consensus algorithms available and adopted by other blockchain platforms.
 
 # Other Core Feature Of the Celo Blockchain
-* [*Scalability*](https://forum.celo.org/t/how-many-transaction-can-celo-blockchain-process-per-second/112):  The Celo blockchain was built to handle a large number of users and transactions without slowing down or becoming unresponsive. Celo is a layer-1 blockchain solution that helps to scale up blockchain technology to handle a high throughput of transactions. 
+* [**Scalability**](https://forum.celo.org/t/how-many-transaction-can-celo-blockchain-process-per-second/112):  The Celo blockchain was built to handle a large number of users and transactions without slowing down or becoming unresponsive. Celo is a layer-1 blockchain solution that helps to scale up blockchain technology to handle a high throughput of transactions. 
 It does this by allowing transactions to be validated off-chain and then quickly grouping them into batches for faster processing on-chain. This helps reduce overall network congestion and improves scalability.
 
-* [*Security*](https://forum.celo.org/t/security-guidelines-for-celo-partners/3723): Transactions on the Celo Blockchain go through a set of measures taken to protect the data and transactions stored on the blockchain from tampering or unauthorized access. This includes encryption, secure protocols, and validation of transactions. Additionally, Celo's consensus protocol is designed to ensure the safety and integrity of the blockchain by maintaining a decentralized network of validators who are incentivized to keep the blockchain secure.
+* [**Security**](https://forum.celo.org/t/security-guidelines-for-celo-partners/3723): Transactions on the Celo Blockchain go through a set of measures taken to protect the data and transactions stored on the blockchain from tampering or unauthorized access. This includes encryption, secure protocols, and validation of transactions. Additionally, Celo's consensus protocol is designed to ensure the safety and integrity of the blockchain by maintaining a decentralized network of validators who are incentivized to keep the blockchain secure.
 
-* [*Speed*](https://www.altcoinbuzz.io/reviews/altcoin-projects/celo-blockchain-with-fast-cheap-and-secure-transactions/#:~:text=Fastest%20EVM%20Chain%20%E2%80%93%20Celo%2C%20in,scalability%20of%20the%20Celo%20platform.): The Celo blockchain is designed to offer a high level of speed, and enables users to quickly and securely transfer value across the network in a matter of seconds. It also utilizes a sharding technology called Celo Fast Finality (CFF) that allows the network to split its transactions into multiple shards to process thousands of transactions per second. It utilizes a mechanism called instant finality that also allows the network to commit transactions.
+* [**Speed**](https://www.altcoinbuzz.io/reviews/altcoin-projects/celo-blockchain-with-fast-cheap-and-secure-transactions/#:~:text=Fastest%20EVM%20Chain%20%E2%80%93%20Celo%2C%20in,scalability%20of%20the%20Celo%20platform.): The Celo blockchain is designed to offer a high level of speed, and enables users to quickly and securely transfer value across the network in a matter of seconds. It also utilizes a sharding technology called Celo Fast Finality (CFF) that allows the network to split its transactions into multiple shards to process thousands of transactions per second. It utilizes a mechanism called instant finality that also allows the network to commit transactions.
 # Building on Celo
 As a developer looking to [build](https://celo.org/developers) fast, secure, scalable, and innovative ideas, building on Celo is an exciting opportunity for you to create applications and services that leverage the Celo platform. Celo provides a secure, open-source platform for developers to create distributed applications and services that connect people and organizations in meaningful ways. With Celo, developers can create applications that bring new possibilities to the global economy, from unlocking financial inclusion to providing access to new markets.
 
@@ -142,17 +142,17 @@ Redeploying your Dapp to Celo requires a Celo account, which you can create thro
 
 Redeploying on the Celo network provides the following benefits to your decentralized application.
 
-1. Scalability: The Celo blockchain can scale to millions of users, with each user able to transact in a matter of seconds. This makes it ideal for large-scale applications that handle large volumes of transactions.
+1. **Scalability**: The Celo blockchain can scale to millions of users, with each user able to transact in a matter of seconds. This makes it ideal for large-scale applications that handle large volumes of transactions.
 
-2. Low Cost: Celo has committed to providing users with low-cost transactions, allowing developers to lower the cost of running their Dapps and making them more attractive to users. 
+2. **Low Cost**: Celo has committed to providing users with low-cost transactions, allowing developers to lower the cost of running their Dapps and making them more attractive to users. 
 
-3. Security: Celo utilizes advanced cryptography to provide a secure and reliable platform for developers and users. 
+3. **Security**: Celo utilizes advanced cryptography to provide a secure and reliable platform for developers and users. 
 
-4. Ease of Use: Celo has a user-friendly interface that makes it easy for developers to deploy their Dapps and for users to use them. 
+4. **Ease of Use**: Celo has a user-friendly interface that makes it easy for developers to deploy their Dapps and for users to use them. 
 
-5. Open Source: Celo is an open-source platform that allows developers to access and customize the code to their needs and requirements. 
+5. **Open Source**: Celo is an open-source platform that allows developers to access and customize the code to their needs and requirements. 
 
-6. Community Support: Celo has a vibrant and supportive community of developers and users who are always willing to help out and provide assistance.
+6. **Community Support**: Celo has a vibrant and supportive community of developers and users who are always willing to help out and provide assistance.
 
 # Conclusion
 Now that you have completed this tutorial, you understand the concept of one of the core concepts that make up the Celo blockchain. And you now have everything you need to start building and interacting with the celo blockchain.
@@ -167,6 +167,4 @@ You can also consider contributing to the Celo network as a developer or as a te
 Mayowa Julius Ogungbola
 
 A Software Engineer and technical writer who is always open to working on new ideas. I enjoy working on [GitHub](https://github.com/Julius170/), and you can also find out what I tweet about and connect with me on [LinkedIn](https://www.linkedin.com/in/julius-ogungbola-a71810229/)
-
-
 
